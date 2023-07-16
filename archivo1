@@ -1,2 +1,2 @@
 archivo1 subimos denuevo con git add .
-y luego git commit 'subodenuevo'
+y luego git commit -m 'subodenuevo'
